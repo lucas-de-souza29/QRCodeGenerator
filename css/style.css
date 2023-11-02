@@ -1,0 +1,21 @@
+* {
+  font-family: 'RobotoMono', monospace;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: #FFF;
+  background: linear-gradient(to right, #209cff 0%, #68e0cf 100%);
+}
+
+input {
+  font-size: 2em;
+  margin-bottom: 30px;
+}
+
+.output {
+  padding: 30px 15px;
+  background-color: #0006;
+}
